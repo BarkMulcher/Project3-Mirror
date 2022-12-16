@@ -1,0 +1,26 @@
+{
+  "short_name": "Sheltr",
+  "name": "Sheltr",
+  "description": "Animal adoption website built with react.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "paw-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "paw-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
